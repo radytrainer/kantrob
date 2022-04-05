@@ -1,0 +1,19 @@
+{
+  "name": "kantrob",
+  "version": "1.0.0",
+  "description": "sum, reverse, find negative, min, max, odd, even number and factorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radytrainer/kantrob.git"
+  },
+  "author": "rady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radytrainer/kantrob/issues"
+  },
+  "homepage": "https://github.com/radytrainer/kantrob#readme"
+}
